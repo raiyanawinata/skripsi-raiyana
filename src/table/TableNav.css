@@ -1,0 +1,27 @@
+.table-custom {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-collapse: collapse;
+  }
+  
+  .table-custom th, .table-custom td {
+    border: none;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .table-custom th {
+    background-color: purple;
+    color: white;
+  }
+  
+  .table-title {
+    color: purple;
+    font-size: 1.25rem; /* Sesuaikan ukuran teks */
+    text-align: left;
+  }
+  
+  .text-purple {
+    color: purple;
+  }
+  

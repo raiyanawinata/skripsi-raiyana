@@ -1,0 +1,17 @@
+.custom-text-primary2 {
+    color: #7913a7;
+}
+
+.card-header {
+    padding-bottom: 0 !important; /* Menghilangkan padding-bottom */
+}
+
+.card-body {
+    padding-top: 10px !important; /* Mengurangi padding-top */
+    padding-bottom: 10px !important; /* Mengurangi padding-bottom jika diperlukan */
+}
+
+.separator {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}

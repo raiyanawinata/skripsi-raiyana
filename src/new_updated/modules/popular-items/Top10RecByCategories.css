@@ -1,0 +1,28 @@
+.custom-text-primary {
+    color: #7913a7;
+}
+.text-success {
+    color: green;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-gray-500 {
+    color: gray;
+}
+
+.custom-text-primary {
+    color: #7913a7;
+}
+
+.availability-status {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.book-recom-item-container {
+    margin-bottom: 16px; /* Adjust the margin as needed */
+}

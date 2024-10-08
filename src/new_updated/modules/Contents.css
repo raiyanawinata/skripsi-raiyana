@@ -1,0 +1,12 @@
+.nav-link {
+    color: #7913A7; 
+    text-align: center;
+  }
+  
+  .nav-link.active {
+    background-color: #7913A7; 
+    width: 200px; 
+    color: #d9d9d9 !important;
+    border-radius: 5px ;
+  }
+  

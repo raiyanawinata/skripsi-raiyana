@@ -1,0 +1,37 @@
+.custom-text-primary {
+    color: #7913a7;
+}
+
+.thead-center{
+ text-align: center;
+ border-bottom: 0.5px;
+ border-style: solid;
+ border-color: #d9d9d9;
+}
+
+.tbody-center td {
+    text-align: center;
+}
+
+.center-cell {
+    text-align: center;
+}
+
+.center-content {
+    width: 20px;
+    height: 20px;
+    margin: auto; 
+}
+
+.center-cell {
+    text-align: center;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-success {
+    color: green;
+}
+
